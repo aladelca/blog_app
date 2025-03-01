@@ -1,1 +1,3 @@
-# blog_app
+# Blog app  
+
+Application using `Flask`
